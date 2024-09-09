@@ -1,3 +1,5 @@
+https://unrivaled-choux-4dc556.netlify.app
+
 This website is beneficial to users in multiple ways, especially in the context of e-commerce.
 
 Users can easily browse through products and add items to their virtual shopping cart without immediate commitment to purchase. It allows users to continue shopping, compare products, and make decisions before proceeding to checkout.
